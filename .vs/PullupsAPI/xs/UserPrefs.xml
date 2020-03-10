@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{88F442DA-6DBE-4030-A6A7-CE7D4191E643}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PullupsAPI/Startup.cs">
+    <Files>
+      <File FileName="PullupsAPI/Startup.cs" Line="12" Column="28" />
+      <File FileName="PullupsAPI/Models/Park.cs" />
+      <File FileName="PullupsAPI/Models/ParkContext.cs" Line="12" Column="47" />
+      <File FileName="PullupsAPI/Properties/launchSettings.json" />
+      <File FileName="PullupsAPI/Controllers/ParksController.cs" Line="36" Column="30" />
+      <File FileName="PullupsAPI/appsettings.json" Line="5" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PullupsAPI" expanded="True">
+            <Node name="PullupsAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PullupsAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
